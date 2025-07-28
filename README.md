@@ -23,13 +23,19 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansijangle&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansijangle&theme=radical&hide_border=false" width="48%" />
+  <img alt="GitHub Contribution Graph" src="https://github-contributor-stats.vercel.app/api?username=mansijangle&theme=radical&show"></img>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijangle&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mansijangle&show_icons=true&theme=radical&count_private=true"></img>
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mansijangle&theme=radical"></img>
+</p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijangle&layout=compact&theme=radical"></img>
 </p>
 
 
