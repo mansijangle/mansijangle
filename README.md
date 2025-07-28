@@ -1,7 +1,8 @@
-## Hi there 👋
-## 👋 Hi there! I'm Tanishq Shinde
+## 👋 Hi there! I'm Mansi Jangle
 
-I'm a passionate developer who loves building intelligent systems 🤖, automating workflows 🔄, and solving problems with code 💡. With a strong foundation in computer science and a knack for real-world applications 🌍, I bring ideas to life through data-driven solutions and AI-powered tools 🤖📊 .
+👋I am a curious and passionate 💡 Computer Engineering student who loves building impactful tech 🚀. From AI tools 🤖 and NLP research 🧠 to full-stack apps 🌐 and data-driven insights 📊, I bring creativity 🎨 and technical depth 💻 to real-world problems. With hands-on project experience 🔧 and tech internships 💼, I'm always learning 📚, building 🛠️, and exploring smarter solutions through code 🧑‍💻.
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -9,12 +10,11 @@ I'm a passionate developer who loves building intelligent systems 🤖, automati
 
 ### 🚀 Projects I'm Proud Of
 
-- **🤖 Wedding Planner AI Backend System**  
-  Automated 5+ wedding workflows (guest invites, vendor discovery, travel coordination) with Python bots — reducing manual effort by 85% ⚙️. Integrated WhatsApp (Twilio API) 📱 & email tracking 📬, scraped 60+ service providers, and generated optimized outputs using Streamlit & MongoDB 💾.
+🤖 AI-Powered Career Guidance Chatbot
+Engineered an intelligent career advisory system using Flask, HuggingFace Transformers, and NLTK, enabling real-time analysis of user input and uploaded PDF documents. Integrated pretrained NLP models to extract semantic context and deliver domain-specific career recommendations 📄. Deployed on a lightweight Flask server with dynamic routing, the system handled stateful query resolution with contextual awareness and personalized output generation 💬.
 
-- **🧴 Personalized Skincare Recommendation System**  
-  Built a Deep Learning-based skin condition predictor 🧠 with 94% accuracy (ResNet-50). Processed 2,394+ images 🖼️ to ensure high-quality results. Built with TensorFlow, Streamlit, and PyTorch 💻.
-
+🧠 Smart Tab Manager — Chrome Extension
+Built a high-efficiency Chrome extension using JavaScript and Manifest V3, implementing a custom LFU (Least Frequently Used) caching mechanism to auto-close rarely used tabs based on usage frequency. Leveraged Chrome Tabs API and Storage API to monitor, score, and manage open tabs in real time 🧩. Integrated a popup UI and background worker for seamless control, enhancing browser resource utilization and reducing memory consumption by over 40% 📉.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
