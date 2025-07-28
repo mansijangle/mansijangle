@@ -21,7 +21,7 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img alt="GitHub Contribution Graph" src="https://github-contributor-stats.vercel.app/api?username=mansijangle&theme=radical&show"></img>
 </p>
 
@@ -32,15 +32,8 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijangle&layout=compact&theme=radical"></img>
-</p
-<h2 align="left">👨‍💻 My Codolio Stats</h2>
-<p align="center">
-  <a href="https://codolio.com/profile/qAXPQzgo" target="_blank">
-    <img src="https://your-image-host.com/your-codolio-card.png" alt="Codolio Stats">
-  </a>
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 </div>
 
 ### Tech Stack
