@@ -21,16 +21,17 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 ## 📊 My GitHub Stats
 
-<div align="center">
+### 📊 GitHub Stats
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq-789&theme=github_dark">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq-789&theme=github_dark">
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq-789&layout=compact&theme=github_dark&hide_border=true">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq-789&theme=github_dark">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanishq-789&theme=github_dark&utcOffset=5">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Tanishq-789&show_icons=true&locale=en&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansijangle&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansijangle&theme=radical&hide_border=false" width="48%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansijangle&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
 
 <h2 align="left">👨‍💻 My LeetCode Stats</h2>
 <p align="center">
