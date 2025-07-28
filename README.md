@@ -37,8 +37,7 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 </div>
 
 <h2 align="left">👨‍💻 My LeetCode Stats</h2>
-<p align="center">
- <img src="https://your-host.com/codolio_card_resized.gif" width="1000">
+<p align="center"> <img src="https://leetcard.jacoblin.cool/qAXPQzgo?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
 </p>
 
 <div align="center">
@@ -73,9 +72,9 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 ### 🏆 Achievements
 
-- 💻 700+ LeetCode problems solved | **Rating: 1819**  
-- 🥈 **Ranked 776 / 28,244** in LeetCode Weekly Contest 455
-- 🎓 CGPA: **9.05**
+- 💻 600+ LeetCode problems solved | **Rating: 1819**  
+- 🥈 Gold Medal for Academic Excellence in IT Department
+- 🎓 CGPA: **8.95**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -93,10 +92,11 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 ### 🔗 Let's Connect
 
 <p align="left">
-   <a href="https://www.leetcode.com/u/Tanishq7-77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tanishq-shinde977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-shinde977" height="30" width="40" /></a>
-  <a href="https://kaggle.com/tanishqshinde775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishqshinde775" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/tanishqshinde777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishqshinde777" height="30" width="40" /></a>
+   <a href="https://www.leetcode.com/u/qAXPQzgo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a> 
+   <a href="https://www.leetcode.com/u/jangleMansi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mansijangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-shinde977" height="30" width="40" /></a>
+  <a href="https://kaggle.com/mansijangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishqshinde775" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mansijangle559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishqshinde777" height="30" width="40" /></a>
 </p>
 
 <div align="center">
