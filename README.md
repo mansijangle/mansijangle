@@ -38,7 +38,7 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 <h2 align="left">👨‍💻 My LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/qAXPQzgo?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
+ <img src="https://your-host.com/codolio_card_resized.gif" width="1000">
 </p>
 
 <div align="center">
