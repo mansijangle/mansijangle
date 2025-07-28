@@ -80,19 +80,10 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-### 📜 Certifications
-
-- 🧠 [Machine Learning Specialization – Andrew Ng](https://www.coursera.org/account/accomplishments/specialization/YUXDYDZLE8W1)  
-- 🤖 [Salesforce Certified AI Associate](https://www.linkedin.com/posts/tanishq-shinde977_certified-ai-associate-certificate-activity-7287810735458455553-gWA5?utm_source=share&utm_medium=member_desktop)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ### 🔗 Let's Connect
 
 <p align="left">
-   <a href="https://www.leetcode.com/u/qAXPQzgo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a> 
+   <a href="https://codolio.com/profile/qAXPQzgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a> 
    <a href="https://www.leetcode.com/u/jangleMansi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanishq7-77" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mansijangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-shinde977" height="30" width="40" /></a>
   <a href="https://kaggle.com/mansijangle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanishqshinde775" height="30" width="40" /></a>
