@@ -85,7 +85,7 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 
 ### 🏆 Achievements
 
-- 💻 600+ LeetCode problems solved | **Rating: 1819**  
+- 💻 800+ DSA problems solved   
 - 🥈 Gold Medal for Academic Excellence in IT Department
 - 🎓 CGPA: **8.95**
 
