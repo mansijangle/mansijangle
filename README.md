@@ -48,7 +48,18 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
+## 🏅 My LeetCode Badges
 
+### 🎯 2025 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
+
+### 🎯 2024 Streak Badges
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="80" width="80"/>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 ### Tech Stack
 
