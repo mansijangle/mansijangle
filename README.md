@@ -49,7 +49,7 @@ Built a high-efficiency Chrome extension using JavaScript and Manifest V3, imple
 ## 🏅 My LeetCode Badges
 
 ### 🎯 2025 Streak Badges
-<img src="https://assets.leetcode.com/static_assets/others/2025-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2025-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="80" width="80"/>
 
 ### 🎯 2024 Streak Badges
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="80" width="80"/>
