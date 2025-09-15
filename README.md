@@ -5,9 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=👋+Hi+there!+I'm+Mansi+Jangle;Passionate+Data+Science+and+AI/ml+Enthusitast+DevOps+who+loves+building+intelligent+systems+🤖;Automating+workflows+🔄+and+solving+problems+with+code+💡;Strong+foundation+in+computer+science+and+real-world+applications+🌍;Bringing+ideas+to+life+through+data-driven+solutions+📊+and+AI-powered+tools+🤖)](https://git.io/typing-svg)
 
 
-## 👋 Hi there! I'm Mansi Jangle
-
-👋I am a curious and passionate 💡 Computer Engineering student who loves building impactful tech 🚀. From AI tools 🤖 and NLP research 🧠 to full-stack apps 🌐 and data-driven insights 📊, I bring creativity 🎨 and technical depth 💻 to real-world problems. With hands-on project experience 🔧 and tech internships 💼, I'm always learning 📚, building 🛠️, and exploring smarter solutions through code 🧑‍💻.
 
 
 
