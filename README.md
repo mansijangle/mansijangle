@@ -13,9 +13,12 @@
 </div>
 
 ### 🚀 Projects I'm Proud Of
+**🤖 AI-Powered Career Guidance Chatbot**
 
-🤖 AI-Powered Career Guidance Chatbot
-Engineered an intelligent career advisory system using Flask, HuggingFace Transformers, and NLTK, enabling real-time analysis of user input and uploaded PDF documents. Integrated pretrained NLP models to extract semantic context and deliver domain-specific career recommendations 📄. Deployed on a lightweight Flask server with dynamic routing, the system handled stateful query resolution with contextual awareness and personalized output generation 💬.
+   -Built an intelligent chatbot using Flask, HuggingFace, and NLTK to deliver personalized career         recommendations.
+
+   -Integrated PDF parsing & semantic analysis for context-aware query resolution.
+   -Deployed on a lightweight Flask server with stateful, real-time response generation.
 
 🧠 Smart Tab Manager — Chrome Extension
 Built a high-efficiency Chrome extension using JavaScript and Manifest V3, implementing a custom LFU (Least Frequently Used) caching mechanism to auto-close rarely used tabs based on usage frequency. Leveraged Chrome Tabs API and Storage API to monitor, score, and manage open tabs in real time 🧩. Integrated a popup UI and background worker for seamless control, enhancing browser resource utilization and reducing memory consumption by over 40% 📉.
