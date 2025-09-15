@@ -2,7 +2,7 @@
 ![Header](Mansi_Image.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=👋+Hi+there!+I'm+Tanishq+Shinde;Passionate+developer+who+loves+building+intelligent+systems+🤖;Automating+workflows+🔄+and+solving+problems+with+code+💡;Strong+foundation+in+computer+science+and+real-world+applications+🌍;Bringing+ideas+to+life+through+data-driven+solutions+📊+and+AI-powered+tools+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=👋+Hi+there!+I'm+Mansi+Jangle;Passionate+Data+Science+and+AI/ml+Enthusitast+DevOps+who+loves+building+intelligent+systems+🤖;Automating+workflows+🔄+and+solving+problems+with+code+💡;Strong+foundation+in+computer+science+and+real-world+applications+🌍;Bringing+ideas+to+life+through+data-driven+solutions+📊+and+AI-powered+tools+🤖)](https://git.io/typing-svg)
 
 
 ## 👋 Hi there! I'm Mansi Jangle
