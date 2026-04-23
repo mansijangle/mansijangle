@@ -232,7 +232,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/mansijangle559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanishqshinde777" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
