@@ -64,31 +64,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-### Tech Stack
-
-![Header](Mansi_Image.png)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=👋+Hi+there!+I'm+Mansi+Jangle;Passionate+Data+Science+and+AI/ml+Enthusitast+who+loves+building+intelligent+systems+🤖;Automating+workflows+🔄+and+solving+problems+with+code+💡;Strong+foundation+in+computer+science+and+real-world+applications+🌍;Bringing+ideas+to+life+through+data-driven+solutions+📊+and+AI-powered+tools+🤖)](https://git.io/typing-svg)
-
-
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-### 🚀 Projects I'm Proud Of
--**🤖 AI-Powered Career Guidance Chatbot**
-  - Engineered an intelligent advisory system using Flask, HuggingFace & NLTK, enabling real-time analysis of user queries and PDF documents 💬.
-  - Integrated pretrained NLP models for semantic context extraction, delivering personalized and domain-specific career recommendations 📄.
-  - Deployed on a lightweight Flask server with dynamic routing and stateful query handling, ensuring smooth and context-aware interactions ⚡
-
--**🧠 Smart Tab Manager — Chrome Extension**  
-  - Developed a high-efficiency Chrome extension using JavaScript & Manifest V3, implementing a custom LFU caching mechanism to auto-close rarely used tabs 🧩.
-  - Leveraged Chrome Tabs API & Storage API to monitor, score, and manage open tabs in real time ⚡.
-  - Integrated a popup UI & background worker for seamless control, improving resource utilization and reducing browser memory consumption by 40%+ 📉.
 
 
 <div align="center">
