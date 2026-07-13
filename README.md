@@ -24,6 +24,11 @@
   - Integrated a popup UI & background worker for seamless control, improving resource utilization and reducing browser memory consumption by 40%+ 📉.
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+
 
 ### 📊 GitHub Stats
 
@@ -56,10 +61,6 @@
 ### 🎯 2024 Streak Badges
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="80" width="80"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="80" width="80"/>
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
 
 
 
